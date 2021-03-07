@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TD_Planete</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="Mercure_Nom"> Nom: Mercure</string>
+    <string name="Mercure_sup">Superficie: 7.78 x 10^7 km²</string>
+    <string name="Mercure_rot">Periode de révolution: 87.969d</string>
+    <string name="Mercure_grav">Gravité de surface: 3.70m/s² (0.378g)</string>
+    <string name="Mercure_temp">Température moyenne de surface: 167 C°</string>
+
+    <string name="Venus_Nom"> Nom: Venus</string>
+    <string name="Venus_sup">Superficie: 4.60 x 10^8 km²</string>
+    <string name="Venus_rot">Periode de révolution: 224.667d</string>
+    <string name="Venus_grav">Gravité de surface: 8.87m/s² (0.905g)</string>
+    <string name="Venus_temp">Température moyenne de surface: 464 C°</string>
+
+    <string name="Terre_Nom"> Nom: Terre</string>
+    <string name="Terre_sup">Superficie: 510 067 420 km²</string>
+    <string name="Terre_rot">Periode de révolution: 365.256 363d</string>
+    <string name="Terre_grav">Gravité de surface: 9.806 65 m/s²</string>
+    <string name="Terre_temp">Température moyenne de surface: 15 C°</string>
+
+    <string name="Mars_Nom"> Nom: Mars</string>
+    <string name="Mars_sup">Superficie: 144 798 500 km²</string>
+    <string name="Mars_rot">Periode de révolution: 87.969d</string>
+    <string name="Mars_grav">Gravité de surface: 3.711 m/s² (0.379g)</string>
+    <string name="Mars_temp">Température moyenne de surface: -63 C°</string>
+
+    <string name="Jupiter_Nom"> Nom: Jupiter</string>
+    <string name="Jupiter_sup">Superficie: 6.145 893 x 10^10 km²</string>
+    <string name="Jupiter_rot">Periode de révolution: 4332.01d</string>
+    <string name="Jupiter_grav">Gravité de surface: 24.796 424 9 m/s² (2.358g)</string>
+    <string name="Jupiter_temp">Température moyenne de surface: -161 / -108 C°</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
